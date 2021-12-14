@@ -13,7 +13,6 @@ package portaudio
 
 /*
 #cgo pkg-config: portaudio-2.0
-extern PaStreamCallback* paStreamCallback;
 */
 import "C"
 
